@@ -1,0 +1,11 @@
+pandas
+rdkit
+scikit-learn
+scipy
+numpy
+matplotlib
+torch
+torchvision
+torch_geometric
+mordred[full]
+scikit-fingerprints
