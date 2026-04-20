@@ -1,3 +1,21 @@
+## 预印本论文
+描述当前模型的预印本论文可以在ChemRxiv上找到：[Prediction of Molecular Critical Properties Based on Boruta Feature Selection: Balancing Accuracy, Applicability and Explainability](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15001485/v1)
+BiBTeX引用条目：
+```bibtex
+@article{Li2026CriticalProperties,
+      author = {Xurui Li  and Zhiguo Gan  and Jiaming Zhang  and Hongxi Zeng  and Zheng Liu  and Diannan Lu },
+      title = {Prediction of Molecular Critical Properties Based on Boruta Feature Selection: Balancing Accuracy, Applicability and Explainability},
+      journal = {ChemRxiv},
+      volume = {2026},
+      number = {0401},
+      pages = {},
+      year = {2026},
+      doi = {10.26434/chemrxiv.15001485/v1},
+      URL = {https://chemrxiv.org/doi/abs/10.26434/chemrxiv.15001485/v1},
+      eprint = {https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15001485/v1}
+}
+```
+
 ## 代码库介绍
 *   本代码库为`Prediction of Molecular Critical Properties Based on Boruta Feature Selection: Balancing Accuracy, Applicability and Explainability`论文的代码库，包含了测试集数据、模型和测试结果等相关内容。
 *   由于ThermoData Engine(TDE)数据库为商业数据库，本研究仅用于学术目的，未经TDE允许不可禁止公开测试数据集的临界数据点值，因此测试数据集仅包含分子名称和SMILES字符串，临界数据点实验数据已经被手动隐去。由于我们公开的为原始计算代码，因此计算时可能会因为没有数据而出现AARD为nan的结果，但这并不影响代码的正常运行。

@@ -1,3 +1,21 @@
+## Pre-print Paper
+The pre-print paper describing the model can be found on ChemRxiv: [Prediction of Molecular Critical Properties Based on Boruta Feature Selection: Balancing Accuracy, Applicability and Explainability](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15001485/v1).
+BiBTeX entry for citation:
+```bibtex
+@article{Li2026CriticalProperties,
+      author = {Xurui Li  and Zhiguo Gan  and Jiaming Zhang  and Hongxi Zeng  and Zheng Liu  and Diannan Lu },
+      title = {Prediction of Molecular Critical Properties Based on Boruta Feature Selection: Balancing Accuracy, Applicability and Explainability},
+      journal = {ChemRxiv},
+      volume = {2026},
+      number = {0401},
+      pages = {},
+      year = {2026},
+      doi = {10.26434/chemrxiv.15001485/v1},
+      URL = {https://chemrxiv.org/doi/abs/10.26434/chemrxiv.15001485/v1},
+      eprint = {https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15001485/v1}
+}
+```
+
 ## Repository Introduction
 *   This repository is for the paper `Prediction of Molecular Critical Properties Based on Boruta Feature Selection: Balancing Accuracy, Applicability and Explainability`. It contains related contents such as test set data, models, and test results.
 *   Because the ThermoData Engine (TDE) is a commercial database, this study is for academic purposes only. Without the permission of TDE, the critical data points of the test dataset cannot be published. Therefore, the test dataset only contains molecular names and SMILES strings, and the experimental critical data points have been manually hidden. Since we provide the original calculation code, the AARD may appear as 'nan' during the calculation due to the missing data, but this does not affect the normal execution of the code.
