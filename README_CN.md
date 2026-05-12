@@ -1,3 +1,7 @@
+## 语言选择
+*  [English](README.md)
+*  [中文](README_CN.md)
+
 ## 预印本论文
 描述当前模型的预印本论文可以在ChemRxiv上找到：[Prediction of Molecular Critical Properties Based on Boruta Feature Selection: Balancing Accuracy, Applicability and Explainability](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15001485/v1)
 BiBTeX引用条目：
